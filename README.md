@@ -1,4 +1,4 @@
-# LLM: Productise LLMs
+# Awesome LLM Productization
 
 ![Alt text](llm.png)
 ---
@@ -20,7 +20,7 @@ As far as we concern, the challenges in deploying LLMs are actually not that spe
 As a result, we will focus this repo to elciit any process or tools that can help you nagivate the three aspects. 
 
 ## Table of Contents
-- [Productise-LLM ](#productise-llm)
+- [Awesome-LLM-Productization](#awesome-llm-productization)
   - [The Survey Paper](#the-survey-paper)
   - [News, Papers & Startups](#for-news-research-papers-and-startups)
   - [How to Contribute](#how-to-contribute)
