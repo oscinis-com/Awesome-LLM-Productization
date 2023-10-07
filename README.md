@@ -35,8 +35,7 @@ As a result, we will focus this repo to elciit any process or tools that can hel
     - [LLM Monitoring](#llm-monitoring)
     - [Use Cases](#use-cases)
     - [General MLOps Tools](#general-mlops-tools)
-  - [Boilerplate](#boilerplates)
-  - [Regulations](#operations)
+  - [Regulations](#regulations)
   - [Contact](#contact)
 
 ## The Survey Paper
