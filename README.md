@@ -98,6 +98,8 @@ Contribute through opening issues. For instance, you can report new package, lib
 * [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs 
 * [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. 
 * [llm-awq](https://github.com/mit-han-lab/llm-awq) - Efficient and accurate low-bit weight quantization (INT3/4) for LLMs, supporting instruction-tuned models and multi-modal LMs.
+* [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - deploy LLMs for infinite-length inputs without sacrificing efficiency and performance.
+* [llama2.c](https://github.com/trholding/llama2.c) - run LLMs on minimum hardware
 
 ### LLM Boilerplate
 * [Zep](https://github.com/getzep/zep) - a fast, scalable building blocks for production LLM apps 
