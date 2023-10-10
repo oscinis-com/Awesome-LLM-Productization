@@ -89,6 +89,7 @@ Contribute through opening issues. For instance, you can report new package, lib
 * [Vald](https://github.com/vdaas/vald) - A Highly Scalable Distributed Vector Search Engine (Go based)
 * [](https://github.com/vespa-engine/vespa) - search, recommendation and personalization need to select a subset of data in a large corpus (Java based)
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine (Java based)
+* [ChromaDB](https://github.com/chroma-core/chroma) - open-source embedding database (Python based - in-memory only at the moment)
 
 ### LLM Deployment
 * [Ray Serve](https://github.com/ray-project/ray) - Ray Serve is a scalable model serving library for building online inference APIs (Note from the repo: from the [Ray]() project)
