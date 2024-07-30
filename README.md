@@ -29,6 +29,7 @@ As a result, we will focus this repo to elciit any process or tools that can hel
     - [Full LLM Lifecycle](#full-llm-lifecycle)
     - [LLM Prompt Management](#llm-prompt-management)
     - [LLM Finetuning](#llm-finetuning)
+    - [Embeddings](#embeddings)
     - [Vector Store](#vector-store)
     - [LLM Deployment](#llm-deployment)
     - [LLM Boilerplate](#llm-boilerplate)
@@ -75,6 +76,12 @@ Contribute through opening issues. For instance, you can report new package, lib
 * [LLM QLoRA](https://github.com/georgesung/llm_qlora) - Fine-tuning LLMs using QLoRA 
 * [Prompt2Model](https://github.com/neulab/prompt2model) - Generate Deployable Models from Instructions
 
+### Embeddings
+
+* [clip-as-service](https://github.com/jina-ai/clip-as-service) - a low-latency high-scalability service for embedding images and text. It can be easily integrated as a microservice into neural search solutions (Python based, Apache 2);
+* [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - a toolkit for deploying and serving open source text embeddings and sequence classification models, enabling high-performance extraction for the most popular models, including FlagEmbedding, Ember, GTE and E5 (Rust based; Apache 2);
+* [infinity](https://github.com/michaelfeil/infinity) - a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of text-embedding models and frameworks (Python based, MIT);
+
 ### Vector Store
 > All open source. And you will find those tools are mostly Java, Go, Python or Rust based 
 
@@ -101,6 +108,8 @@ Contribute through opening issues. For instance, you can report new package, lib
 * [llm-awq](https://github.com/mit-han-lab/llm-awq) - Efficient and accurate low-bit weight quantization (INT3/4) for LLMs, supporting instruction-tuned models and multi-modal LMs.
 * [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - deploy LLMs for infinite-length inputs without sacrificing efficiency and performance.
 * [llama2.c](https://github.com/trholding/llama2.c) - run LLMs on minimum hardware
+* [text-generation-inference](https://github.com/huggingface/text-generation-inference) -  Large Language Model Text Generation Inference
+* [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. 
 
 ### LLM Boilerplate
 * [Zep](https://github.com/getzep/zep) - a fast, scalable building blocks for production LLM apps 
