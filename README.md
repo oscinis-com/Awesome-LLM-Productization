@@ -108,6 +108,7 @@ Contribute through opening issues. For instance, you can report new package, lib
 * [llm-awq](https://github.com/mit-han-lab/llm-awq) - Efficient and accurate low-bit weight quantization (INT3/4) for LLMs, supporting instruction-tuned models and multi-modal LMs.
 * [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - deploy LLMs for infinite-length inputs without sacrificing efficiency and performance.
 * [llama2.c](https://github.com/trholding/llama2.c) - run LLMs on minimum hardware
+* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 * [text-generation-inference](https://github.com/huggingface/text-generation-inference) -  Large Language Model Text Generation Inference
 * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. 
 
